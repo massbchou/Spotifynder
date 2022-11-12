@@ -1,0 +1,29 @@
+All Training data must be broken up into the following:
+[Entity] [Entity Length] [Tokens] [Tags]
+
+For example the following sentence:
+"And on that day, the Lord God made two great lights, the greater light to rule the day"
+
+Could be broken up into the following:
+
+["And on that day, the Lord God made two great lights, the greater light to rule the day"]
+[6]
+["And", "on that day,", "the Lord God", "made", "two great lights,", "the greater light to rule the day"]
+["conjunction", "prepositional phrase", "subject", "verb", "object", "subject"]
+
+The Entities and their lengths should go in the Entities.txt file with the following format:
+
+Entity tab Entity Length/n (newline) Do not include quotation marks
+
+The Tokens and their tags should go in the TokensTags.txt file with the following format:
+
+Token tab Tag/n (newline) Do not include quotation marks. Note that this means that the TokenTags file will be much longer than the Entities file. 
+
+The following are the possible tags to use for SONG training: 
+
+Song - Ex. "Never Gonna Give You Up"
+Artist - Ex. "Rick Astley"
+Album - Ex. "Whenever You Need Somebody"
+Irrelevant - "banana" or "i liked the song" or "speaker" (anything that is not a song, artist, or album)
+Format - Ex. "Sign In" or "Forgot Password?" (Website artefacts)
+No Tag - Ex. "And" or "the" or "because" (words that exist to add structure to the sentence)
