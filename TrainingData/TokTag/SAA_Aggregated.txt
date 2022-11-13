@@ -1,0 +1,1585 @@
+Radiohead	Artist
+released	Interaction
+King of Limbs	Album
+back in	No Tag
+February,	Irrelevant
+but	No Tag
+for some reason	Irrelevant
+they	Irrelevant
+waited	Irrelevant
+until	Irrelevant
+last month	Irrelevant
+to	No Tag
+actually	Irrelevant
+promote	Interaction
+the	No Tag
+thing.	Irrelevant
+10.	No Tag
+‘How To Disappear Completely’	Song
+Share	Format
+Absolutely	Irrelevant
+everybody	Irrelevant
+loves	Sentiment
+it	Irrelevant
+now,	Irrelevant
+but when	No Tag
+Kid A	Album
+came out	Interaction
+back in	No Tag
+2000,	Irrelevant
+some people	Irrelevant
+weren't	Irrelevant
+blown away.	Sentiment
+7.	No Tag
+‘Let Down’	Song
+Share	Format
+OK Computer	Album
+hit	Irrelevant
+a lot of	No Tag
+people	Irrelevant
+by surprise	Irrelevant
+when	No Tag
+it	Irrelevant
+hit shelves	Interaction
+in the	No Tag
+summer	Irrelevant
+of	No Tag
+1997.	Irrelevant
+A	No Tag
+cultural	Irrelevant
+force	Irrelevant
+that	No Tag
+transcends	Sentiment
+generations.	Irrelevant
+Enter your Email	Format
+Subscribe	Format
+If	No Tag
+you	Irrelevant
+had to	Irrelevant
+play	Interaction
+somebody	Irrelevant
+one	Irrelevant
+Radiohead	Artist
+song	Interaction
+to	No Tag
+convince	Irrelevant
+them	Irrelevant
+of the	No Tag
+band's	Interaction
+brilliance,	Sentiment
+it	Irrelevant
+should	Irrelevant
+probably	Irrelevant
+be	Irrelevant
+"Paranoid Android."	Song
+112 hour	Irrelevant
+playlist	Irrelevant
+of the	No Tag
+most	No Tag
+recognizable	Irrelevant
+songs	Irrelevant
+of all time!	No Tag
+Great	No Tag
+for	No Tag
+road trips	Irrelevant
+;)	No Tag
+https://open.spotify.com/user/caaakeeey/playlist/6QAKnenuZoowNqxRzZbeRg	Link
+Just	No Tag
+as	No Tag
+I	No Tag
+shut off	No Tag
+my	No Tag
+motor	Irrelevant
+and	No Tag
+lights,	Irrelevant
+the	No Tag
+playlist	Interaction
+randomly	Irrelevant
+rotates....	Irrelevant
+Floyd's	Artist
+Wish You Were Here.	Song
+So	No Tag
+there	No Tag
+I am	No Tag
+all	No Tag
+alone	Irrelevant
+in the	No Tag
+pitch black	Irrelevant
+watching	Irrelevant
+meteors	Irrelevant
+burn	Irrelevant
+into	No Tag
+our	No Tag
+atmosphere	Irrelevant
+and	No Tag
+Gilmour	Artist
+just	No Tag
+rolling	Irrelevant
+out of	No Tag
+my	No Tag
+speakers	Irrelevant
+singing	Irrelevant
+about	No Tag
+the	No Tag
+loss	Irrelevant
+of	No Tag
+his	No Tag
+old	Irrelevant
+friend	Irrelevant
+Syd.	Irrelevant
+I had	No Tag
+something	No Tag
+like	No Tag
+this…	Irrelevant
+about	No Tag
+80	Irrelevant
+different	Irrelevant
+songs	Irrelevant
+but	Irrelevant
+all	No Tag
+my	No Tag
+favorites.	Irrelevant
+Now That's What I Call Music! Volume 112	Album
+Out of	No Tag
+curiosity,	Irrelevant
+did you	No Tag
+put	Irrelevant
+Ice Ice Baby	Song
+and	No Tag
+Under Pressure	Song
+back to back	No Tag
+in the	No Tag
+playlist	Irrelevant
+intentionally?	Irrelevant
+Inb4	No Tag
+all	No Tag
+songs	Irrelevant
+change	Irrelevant
+to	Irrelevant
+Rick Astley	Artist
+in	No Tag
+2 days	Irrelevant
+Well	No Tag
+now	No Tag
+I	No Tag
+have to	No Tag
+go	Irrelevant
+bust out	Irrelevant
+the	No Tag
+Pink Floyd	Artist
+vinyl	Irrelevant
+and	No Tag
+slip	Irrelevant
+away	Irrelevant
+for	No Tag
+a while	No Tag
+Maybe	No Tag
+break it up	No Tag
+with	No Tag
+one	Irrelevant
+play	Irrelevant
+of	No Tag
+Tom Jones'	Artist
+"It's Not Unusual"	Song
+Grammys	Interaction
+2022:	Irrelevant
+Nominees,	Interaction
+Performers,	Interaction
+Winners	Irrelevant
+&	No Tag
+More	Irrelevant
+News	Irrelevant
+|	No Tag
+Pitchfork	Irrelevant
+Skip	Irrelevant
+to	Irrelevant
+content	Format
+See	Irrelevant
+the	No Tag
+Full	Irrelevant
+List	Irrelevant
+Here	Irrelevant
+Who	No Tag
+won	Irrelevant
+Best New Artist,	Interaction
+Album of the Year,	Interaction
+and	No Tag
+Song of the Year?	Interaction
+Watch	Interaction
+Lady Gaga	Artist
+Perform	Interaction
+“Love for Sale”	Song
+and	No Tag
+“Do I Love You”	Song
+at	No Tag
+Grammys	Interaction
+Kanye West,	Artist
+the Weeknd,	Artist
+and Lil Baby	Artist
+Win	Irrelevant
+Best	Sentiment
+Melodic	Interaction
+Rap	Interaction
+Performance	Interaction
+at the	No Tag
+2022	Irrelevant
+Grammys	Interaction
+by:	No Tag
+Matthew Ismael	Irrelevant
+Watch	Interaction
+Lil Nas X	Artist
+and	No Tag
+Jack Harlow	Artist
+Perform	Interaction
+“Dead Right Now,”	Song
+“Montero,”	Song
+and	No Tag
+“Industry Baby”	Song
+at the	No Tag
+2022	Irrelevant
+Grammys	Interaction
+Olivia Rodrigo	Artist
+SOUR	Album
+Four months	Irrelevant
+after	Irrelevant
+“drivers license,”	Album
+pop’s	Interaction
+newest	Irrelevant
+star	Interaction
+offers	Irrelevant
+a	No Tag
+nimble	Irrelevant
+and	No Tag
+lightly	Irrelevant
+chaotic	Irrelevant
+collection	Interaction
+of	No Tag
+breakup	Interaction
+tunes	Interaction
+filled with	Irrelevant
+melancholy	Sentiment
+and	No Tag
+mischief.	Irrelevant
+Billie Eilish	Artist
+Happier Than Ever	Song
+On	No Tag
+her	Irrelevant
+second	Irrelevant
+album,	Interaction
+Billie Eilish	Artist
+sings	Interaction
+with	No Tag
+unsparing	Irrelevant
+honesty	Irrelevant
+about	No Tag
+her	Irrelevant
+rapid	Irrelevant
+ascent	Irrelevant
+to	No Tag
+stardom	Irrelevant
+and	No Tag
+all	Irrelevant
+its	Irrelevant
+accompanying	Irrelevant
+horrors.	Irrelevant
+Any	No Tag
+fragment	Irrelevant
+of	No Tag
+Bohemian Rhapsody	Song
+is	No Tag
+good	Irrelevant
+for	No Tag
+letting	Irrelevant
+it	Irrelevant
+all out,	No Tag
+releasing	Irrelevant
+stress	Irrelevant
+and	No Tag
+happy	Irrelevant
+motoring.	Irrelevant
+Bohemian Rhapsody,	Song
+by	No Tag
+Queen,	Artist
+tops	Irrelevant
+the	No Tag
+list	Irrelevant
+of	No Tag
+favourite	Irrelevant
+songs	Irrelevant
+for	No Tag
+drivers	Irrelevant
+These	Irrelevant
+findings	Irrelevant
+are	No Tag
+backed by	No Tag
+research	Irrelevant
+published	Irrelevant
+in	No Tag
+Nature	Irrelevant
+magazine	Irrelevant
+which shows	No Tag
+that	No Tag
+listening	Irrelevant
+to	No Tag
+music	Irrelevant
+releases	Irrelevant
+dopamine,	Irrelevant
+the	No Tag
+happiness	Irrelevant
+hormone.	Irrelevant
+Furthermore,	No Tag
+enjoyment	Irrelevant
+increases	Irrelevant
+when	No Tag
+listening	Irrelevant
+to a	No Tag
+song	Irrelevant
+we	No Tag
+especially	No Tag
+like.	Irrelevant
+In	No Tag
+this	No Tag
+sense,	Irrelevant
+SEAT	Irrelevant
+is	No Tag
+the	No Tag
+first	Irrelevant
+carmaker	Irrelevant
+to	No Tag
+integrate	Irrelevant
+Shazam	Irrelevant
+in	No Tag
+its	Irrelevant
+vehicles.	Irrelevant
+SUBSCRIBE	Format
+TO	Irrelevant
+A	Irrelevant
+TOPIC	Format
+Select	Format
+Topic	Format
+Subscribe	Format
+Legal	Format
+Note	Format
+Privacy	Format
+Policy	Format
+Cookie	Format
+Policy	Format
+Seat	Format
+Corporate	Format
+Website	Format
+Download	Format
+PDF	Format
+Download	Format
+Images	Format
+Download	Format
+Video	Format
+There are	No Tag
+a lot of	No Tag
+modern	Irrelevant
+songs	Irrelevant
+beginning	Irrelevant
+in	No Tag
+11th	Irrelevant
+place,	Irrelevant
+such as	No Tag
+This Is Me,	Song
+from	No Tag
+the	No Tag
+film	Irrelevant
+The Greatest Showman,	Album
+or	No Tag
+Roar,	Song
+by	No Tag
+Katy Perry.	Artist
+Prior to	Irrelevant
+February	Irrelevant
+2014,	Irrelevant
+Spotify's	Interaction
+most-streamed	Interaction
+song	Interaction
+was	Irrelevant
+"Radioactive"	Song
+by	No Tag
+Imagine Dragons;	Artist
+[1]	Format
+"Wake Me Up"	Song
+held	Irrelevant
+the	No Tag
+streaming	Interaction
+record	Irrelevant
+for	No Tag
+over a	Irrelevant
+year	Irrelevant
+before	Irrelevant
+being	Irrelevant
+surpassed	Irrelevant
+by	No Tag
+Sheeran's	Artist
+"Thinking Out Loud"	Song
+on	No Tag
+22 May 2015,	Irrelevant
+which	No Tag
+became	Irrelevant
+the	No Tag
+first	Irrelevant
+song	Interaction
+to	No Tag
+hit	Interaction
+500 million	Irrelevant
+streams	Interaction
+on	No Tag
+12 October 2015.	Irrelevant
+[3]	Format
+A month later,	Irrelevant
+however,	Irrelevant
+it	Irrelevant
+was	Irrelevant
+surpassed	Interaction
+by	No Tag
+Major Lazer	Artist
+and	No Tag
+DJ Snake's	Artist
+"Lean On",	Song
+featuring	Interaction
+MØ,	Artist
+[4]	Format
+which	Irrelevant
+held	Interaction
+the	No Tag
+streaming	Interaction
+record	Interaction
+for	No Tag
+11 months	Irrelevant
+until	Irrelevant
+it	Irrelevant
+was	Irrelevant
+overtaken	Irrelevant
+by	No Tag
+Drake's	Artist
+"One Dance",	Song
+featuring	Interaction
+Wizkid	Artist
+and	No Tag
+Kyla,	Artist
+on	No Tag
+18 October 2016.	Irrelevant
+[5]	Format
+Press J	Irrelevant
+to	No Tag
+jump	Irrelevant
+to the	No Tag
+feed.	Irrelevant
+Press question mark	Irrelevant
+to	No Tag
+learn	Irrelevant
+the	No Tag
+rest of the	No Tag
+keyboard shortcuts	Irrelevant
+Jump to content	Format
+r/Music	Format
+Search within	Format
+r/Music	Format
+r/Music	Format
+Log In	Format
+Sign Up	Format
+User account	Format
+menu	No Tag
+Found the internet!	Format
+FEEDS	Format
+Home	Format
+Popular	Format
+RECENT COMMUNITIES	Format
+r/Music	Format
+r/umass	Format
+r/webdev	Format
+TOPICS	Format
+Gaming	Format
+Sports	Format
+Business,	Format
+Economics,	Format
+and Finance	Format
+Join Reddit r/Music	Format
+PostsRulesSocialMore	Format
+Music 67 Posted byu/[deleted]	Format
+8 years ago	Irrelevant
+Discussion	Irrelevant
+It's	No Tag
+a	No Tag
+bit hard	Irrelevant
+but I	No Tag
+tried my best.	Irrelevant
+[102][103]	Format
+[69][70]	Format
+[31]	Format
+My	No Tag
+Favorites	Irrelevant
+are:	No Tag
+46&2 -	Song
+Tool	Artist
+Orion -	Song
+Metallica	Artist
+A Tout Le Monde -	Song
+Megadeth	Artist
+Blind Faith -	Song
+Dream Theater	Artist
+Flight Of Icarus -	Song
+Iron Maiden	Artist
+Killing In The Name -	Song
+Rage Against The Machine	Artist
+Bleeding Me -	Song
+Metallica	Artist
+Loner/War Pigs -	Song
+Black Sabbath	Artist
+Wings For Marie I and II -	Song
+Tool	Artist
+Wish You Were Here -	Song
+Pink Floyd	Artist
+These Walls -	Song
+Dream Theater	Artist
+The Unforgiven -	Song
+Metallica	Artist
+Fell On Black Days -	Song
+Soundgarden	Artist
+Aenima -	Song
+Tool	Artist
+Remember Tomorrow -	Song
+Iron Maiden	Artist
+You Know Your Right -	Song
+Nirvana	Artist
+Disposable Heros -	Song
+Metallica	Artist
+Lateralus -	Song
+Tool	Artist
+Buried Alive -	Song
+Avenged Sevenfold	Artist
+Sudden Death -	Song
+Megadeth	Artist
+133 Comments	Format
+Share	Format
+Save	Format
+Hide	Format
+Report	Format
+75% Upvoted	Format
+Comment	Format
+Sort By:	Format
+Best	Format
+View	Format
+discussions	Format
+in	No Tag
+1	No Tag
+other community	Format
+level 1	Format
+pawluk	Irrelevant
+· 8 yr. ago	Format
+· edited 8 yr. ago	Format
+It’s	Irrelevant
+a	No Tag
+love	Irrelevant
+song,	Irrelevant
+an	No Tag
+urban-jungle	Irrelevant
+cry	Irrelevant
+and a	No Tag
+perfect	Irrelevant
+anthem	Irrelevant
+of	No Tag
+pedal-to-the-metal	Irrelevant
+escape.	Irrelevant
+From	No Tag
+a	No Tag
+whisper,	Irrelevant
+the	No Tag
+sound	Irrelevant
+of	No Tag
+an	No Tag
+organ	Irrelevant
+builds up	Irrelevant
+like	No Tag
+a	No Tag
+spiritual	Irrelevant
+beacon	Irrelevant
+being	Irrelevant
+unveiled.	Irrelevant
+Admittedly,	Irrelevant
+it’s	Irrelevant
+hard	Irrelevant
+to	No Tag
+dance	Irrelevant
+like	No Tag
+no one’s	Irrelevant
+watching	Irrelevant
+when	No Tag
+you’re	Irrelevant
+behind the wheel	Irrelevant
+of a	No Tag
+Chrysler	Irrelevant
+(or a	No Tag
+Fiat Punto,	Irrelevant
+for	No Tag
+that	No Tag
+matter),	Irrelevant
+but	No Tag
+‘Love Shack’	Song
+will	No Tag
+liven up	Irrelevant
+any	No Tag
+road trip.	Irrelevant
+Tracy Chapman’s	Artist
+beautifully	Irrelevant
+direct	Irrelevant
+1988 hit,	Irrelevant
+from	No Tag
+her	No Tag
+eponymous	No Tag
+debut album,	Irrelevant
+gives	Irrelevant
+escapism	Irrelevant
+an	No Tag
+especially	Irrelevant
+poignant	Irrelevant
+twist.	Irrelevant
+Like	No Tag
+Bruce Springsteen’s	Artist
+‘Born in the U.S.A.,’	Song
+‘Born to Run’	Song
+is	No Tag
+darker	Irrelevant
+than	No Tag
+it	No Tag
+The Eagles	Artist
+took flight	Irrelevant
+in 1972	Irrelevant
+with	No Tag
+their	Irrelevant
+debut single:	Irrelevant
+a	No Tag
+quick	No Tag
+but	No Tag
+mellow	Irrelevant
+paean	Irrelevant
+to the	No Tag
+romance	No Tag
+of the	No Tag
+road,{Irrelevant} where	No Tag
+a	No Tag
+world of troubles—	Irrelevant
+romantic	Irrelevant
+and otherwise—	Irrelevant
+can be	No Tag
+shucked	Irrelevant
+at the	No Tag
+mere sight	Irrelevant
+of a	No Tag
+girl	Irrelevant
+(my lord!)	Irrelevant
+in a	No Tag
+flatbed	Irrelevant
+Ford.	Irrelevant
+This	No Tag
+R&B	Irrelevant
+standard,	Irrelevant
+written in 1946	Irrelevant
+by	No Tag
+Bobby Troup,	Artist
+has been	No Tag
+covered by	Irrelevant
+everyone	Irrelevant
+from the	No Tag
+Rolling Stones	Artist
+to	No Tag
+John Mayer	Artist
+and	No Tag
+Depeche Mode.	Artist
+Billy Joel’s	Artist
+‘We Didn’t Start the Fire’	Song
+taught	Irrelevant
+us	No Tag
+more	No Tag
+20th-century	Irrelevant
+American	Irrelevant
+history	Irrelevant
+than a	No Tag
+year’s	No Tag
+worth of	Irrelevant
+school hisoty lessons.	Irrelevant
+Fiendishly	Irrelevant
+simple	Irrelevant
+with	No Tag
+its	No Tag
+descending	Irrelevant
+piano chords,	Irrelevant
+‘Hit the Road Jack’	Song
+is	No Tag
+sung	Irrelevant
+from the	No Tag
+perspective	Irrelevant
+of a	No Tag
+philanderer	Irrelevant
+being	No Tag
+ejected	Irrelevant
+by	No Tag
+his	No Tag
+lady.	No Tag
+God Only Knows	Song
+by	No Tag
+the Beach Boys.	Artist
+I believe	Irrelevant
+Paul McCartney	Artist
+even	No Tag
+considers it	Irrelevant
+the greatest	Irrelevant
+song	Irrelevant
+ever.	No Tag
+Frank Sinatra	Artist
+thought	Irrelevant
+Harrison's	Artist
+"Something"	Song
+was the	No Tag
+perfect	Irrelevant
+love song.	Irrelevant
+Every time	No Tag
+I listen to	Irrelevant
+it,	No Tag
+I am	No Tag
+immediately	No Tag
+calmed down	Irrelevant
+and	No Tag
+have	No Tag
+no worries.	Irrelevant
+My posture	Irrelevant
+immediately	Irrelevant
+changes	Irrelevant
+and I	No Tag
+slump down.	Irrelevant
+Alice Kristiansen’s	Artist
+cover	Irrelevant
+if it is	No Tag
+amazing.	Irrelevant
+Just	Irrelevant
+as good as	Irrelevant
+the original.	Irrelevant
+I highly recommend	Irrelevant
+you	No Tag
+to	No Tag
+listen to it.	Irrelevant
+I always	Irrelevant
+cried	Irrelevant
+when	No Tag
+I heard it	Irrelevant
+as a	No Tag
+kid.	Irrelevant
+Decided	Irrelevant
+I	No Tag
+never	No Tag
+wanted	No Tag
+to be	Irrelevant
+an astronaut	Irrelevant
+I’ve	Irrelevant
+loved	Irrelevant
+this song	Irrelevant
+since	No Tag
+my	No Tag
+early teens.	Irrelevant
+Now that	No Tag
+I’m in	No Tag
+my	No Tag
+mid-thirties,	Irrelevant
+I still	Irrelevant
+love it	Irrelevant
+but	No Tag
+it just	No Tag
+continues	No Tag
+to make	Irrelevant
+me	No Tag
+more	No Tag
+emotional {Irrelevant}. Such	No Tag
+a beautiful	Irrelevant
+so	No Tag
+no.	No Tag
+Elliott Smith	Artist
+-	No Tag
+I Figured You Out	Song
+Queen	Artist
+-	No Tag
+Don't Stop Me Now	Song
+Pink Floyd	Artist
+-	No Tag
+Wish You Were Here	Artist
+Queens of the Stone Age	Artist
+- {No Tag} You Think I Ain't Worth a Dollar, But I Feel Like a Millionaire	Song
+Manfred Mann's Earth Band	Artist
+-	No Tag
+Blinded by the Light	Song
+Sigur Rós	Artist
+-	No Tag
+Glósóli	Song
+Muse	Artist
+-	No Tag
+Knights of Cydonia	Song
+Blink-182	Artist
+-	No Tag
+Feeling This	Song
+Aerosmith	Artist
+-	No Tag
+Dream On	Song
+Gorillaz	Artist
+-	No Tag
+Clint Eastwood	Song
+Kanye West	Artist
+-	No Tag
+Last Call	Song
+The Strokes	Artist
+-	No Tag
+Reptilia	Song
+Bright Eyes	Artist
+-	No Tag
+First Day Of My Life	Song
+M83	Artist
+-	No Tag
+Outro	Song
+Alexisonfire	Artist
+-	No Tag
+Boiled Frogs	Song
+UGK	Artist
+ft.	Interaction
+OutKast	Artist
+-	No Tag
+Int'l Players Anthem	Song
+Childish Gambino	Artist
+-	No Tag
+Freaks and Geeks	Song
+Rascalz	Artist
+ft.	Interaction
+Barrington Levy & k-os	Artist
+- Top Of The World	Song
+Celia Pavey	Artist
+-	No Tag
+Candle In The Night	Song
+Joe Dolce Music Theatre	Artist
+-	No Tag
+Shaddup You Face	Song
+BONUS	Irrelevant
+Men Without Hats	Artist
+-	No Tag
+The Safety Dance	Song
+15	Format
+Reply	Format
+Share	Format
+Report	Format
+Save	Format
+Follow	Format
+level 2	Format
+Toa_Ignika	Format
+· 8 yr. ago	Irrelevant
+That's	Irrelevant
+such an	Irrelevant
+r/music	Irrelevant
+list.	Irrelevant
+Spotify	Interaction
+Excellent taste	Sentiment
+in	No Tag
+music.	Irrelevant
+It's funny,	Sentiment
+I'm	Irrelevant
+the only one	Irrelevant
+of	No Tag
+my	Irrelevant
+friends	Irrelevant
+who	No Tag
+loves	Sentiment
+bands	Interaction
+like	Irrelevant
+Pink Floyd	Artist
+and	No Tag
+Sigur Ros	Artist
+as well as	No Tag
+Alexisonfire	Artist
+(my	Irrelevant
+friends	Irrelevant
+are	Irrelevant
+divided	Sentiment
+between	No Tag
+the two	Irrelevant
+types	Irrelevant
+of	No Tag
+genres).	Interaction
+You	Irrelevant
+happened	Irrelevant
+to	No Tag
+pick	Irrelevant
+my	Irrelevant
+favorite	Sentiment
+Queen	Artist
+song	Interaction
+too and	No Tag
+Clint Eastwood	Song
+is	Irrelevant
+my	Irrelevant
+"make	Irrelevant
+me	Irrelevant
+feel happy	Sentiment
+/	No Tag
+energize	Sentiment
+me"	Irrelevant
+song.	Interaction
+level 1	Irrelevant
+Comment	Irrelevant
+removed	Irrelevant
+by moderator	Irrelevant
+· 8 yr. Ago	Format
+level 1	Format
+eetyrmouth	Irrelevant
+· 8 yr. ago ·	Format
+edited	Format
+8 yr. Ago	Format
+no particular	Irrelevant
+order,	Irrelevant
+no	Irrelevant
+repeated	Irrelevant
+artists	Interaction
+and	No Tag
+sorry	Irrelevant
+I	Irrelevant
+did	Irrelevant
+25:	Irrelevant
+The Fall:	Artist
+Fortress/Deer Park	Song
+Bob Dylan:	Artist
+Visions of Johanna	Song
+Nirvana:	Artist
+Milk It	Song
+Sonic Youth:	Artist
+Total Trash	Song
+Robyn Hitchcock & The Egyptians:	Artist
+Balloon Man	Song
+Syd Barrett:	Artist
+Octopus	Song
+Radiohead:	Artist
+Weird Fishes/Arpeggi	Song
+Here We Go Magic:	Artist
+The Collector	Song
+Wilco:	Artist
+Spiders (Kidsmoke)	Song
+Jimi Hendrix:	Artist
+If 6 Was 9	Song
+John Coltrane:	Artist
+India	Song
+Thelonious Monk:	Artist
+Criss Cross	Song
+Michael Jackson:	Artist
+Billie Jean	Song
+Captain Beefheart:	Artist
+On Tomorrow	Song
+The Beatles:	Artist
+Dig A Pony	Song
+The	No Tag
+orphan	Irrelevant
+Alexander Hamilton	Song
+experiences	Irrelevant
+a	No Tag
+hard	Irrelevant
+early	Irrelevant
+life,	Irrelevant
+and	No Tag
+through	Irrelevant
+his	Irrelevant
+smarts	Irrelevant
+and the	No Tag
+charitability	Irrelevant
+of the	No Tag
+townsfolks	Irrelevant
+leaves	Irrelevant
+his	Irrelevant
+home,	Irrelevant
+the	No Tag
+island	Irrelevant
+of	No Tag
+Nevis	Irrelevant
+("Alexander Hamilton").	Song
+As	No Tag
+a	No Tag
+student	Irrelevant
+at	No Tag
+King's College	Irrelevant
+in	No Tag
+New York	Irrelevant
+in	No Tag
+1776,	Irrelevant
+Hamilton	Irrelevant
+meets	Irrelevant
+Aaron Burr,	Irrelevant
+John Laurens,	Irrelevant
+the Marquis de Lafayette,	Irrelevant
+and	No Tag
+Hercules Mulligan	Irrelevant
+("Aaron Burr, Sir"),	Song
+and	No Tag
+impresses	Sentiment
+them	Irrelevant
+with	No Tag
+his	Irrelevant
+rhetorical	Irrelevant
+skills	Irrelevant
+("My Shot").	Song
+The	No Tag
+latter	Irrelevant
+three	Irrelevant
+and	No Tag
+Hamilton	Irrelevant
+affirm	Irrelevant
+their	Irrelevant
+revolutionary	Irrelevant
+goals	Irrelevant
+to	No Tag
+each other,	Irrelevant
+while	Irrelevant
+Burr	Irrelevant
+remains	Irrelevant
+apprehensive	Irrelevant
+("The Story of Tonight").	Song
+Later,	Irrelevant
+the	No Tag
+daughters	Irrelevant
+of the	No Tag
+wealthy	Irrelevant
+Philip Schuyler	Irrelevant
+—	No Tag
+Peggy,	Irrelevant
+Angelica,	Irrelevant
+and	No Tag
+Eliza	Irrelevant
+—go	Irrelevant
+into	No Tag
+town	Irrelevant
+and	No Tag
+share	Irrelevant
+their	Irrelevant
+opinion	Irrelevant
+on the	No Tag
+upcoming	Irrelevant
+revolution	Irrelevant
+("The Schuyler Sisters");	Song
+it is at	No Tag
+this time	Irrelevant
+that	No Tag
+Samuel Seabury	Irrelevant
+warns	Irrelevant
+everyone	Irrelevant
+about	Irrelevant
+the	No Tag
+dangers	Irrelevant
+of	No Tag
+Congress	Irrelevant
+while	No Tag
+Hamilton	Irrelevant
+disagrees	Irrelevant
+and	No Tag
+counters	Irrelevant
+Seabury	Irrelevant
+("Farmer Refuted"),	Song
+until	Irrelevant
+King George III	Irrelevant
+insists	Irrelevant
+on	No Tag
+his	Irrelevant
+authority	Irrelevant
+("You'll Be Back").	Song
+During	Irrelevant
+the	No Tag
+New York	Irrelevant
+and	No Tag
+New Jersey	Irrelevant
+campaign,	Irrelevant
+Hamilton	Irrelevant
+accepts	Irrelevant
+a	No Tag
+position	Irrelevant
+as	No Tag
+George Washington's	Irrelevant
+aide-de-camp	Irrelevant
+despite	Irrelevant
+longing for	Irrelevant
+field command	Irrelevant
+("Right Hand Man").	Song
+At a	No Tag
+ball	Irrelevant
+hosted by	Irrelevant
+Philip Schuyler	Irrelevant
+("A Winter's Ball"),	Song
+Eliza	Irrelevant
+falls	Irrelevant
+helplessly	Irrelevant
+in love with	Irrelevant
+Hamilton,	Irrelevant
+who	No Tag
+reciprocates	Irrelevant
+her feelings	Irrelevant
+to the	No Tag
+point	Irrelevant
+of	No Tag
+marriage	Irrelevant
+("Helpless"),	Irrelevant
+as	No Tag
+Angelica	Irrelevant
+suppresses	Irrelevant
+her own	Irrelevant
+feelings	Irrelevant
+for the	No Tag
+sake	Irrelevant
+of	No Tag
+their	No Tag
+happiness	Irrelevant
+("Satisfied").	Song
+After the	No Tag
+wedding,	Irrelevant
+Burr and Hamilton	Irrelevant
+congratulate	Irrelevant
+each other's	Irrelevant
+successes	Irrelevant
+("The Story of Tonight (Reprise)")	Song
+while	No Tag
+Burr	Irrelevant
+reflects	Irrelevant
+on	No Tag
+Hamilton's	Irrelevant
+swift	Irrelevant
+rise	Irrelevant
+while	Irrelevant
+considering	Irrelevant
+his own	Irrelevant
+more	Irrelevant
+cautious	Irrelevant
+career	Irrelevant
+as well as	Irrelevant
+his	Irrelevant
+affair	Irrelevant
+with	No Tag
+Theodosia,	Irrelevant
+the	No Tag
+wife	Irrelevant
+of a	No Tag
+British	Irrelevant
+officer	Irrelevant
+("Wait For It").	Song
+By far	Irrelevant
+the most	Irrelevant
+well known	Irrelevant
+Christian	Irrelevant
+ballad	Interaction
+that's	Irrelevant
+come out	Irrelevant
+of the	No Tag
+industry	Interaction
+in the	No Tag
+last	Irrelevant
+15 years	Irrelevant
+and	No Tag
+staying	Irrelevant
+at	No Tag
+number 1	Irrelevant
+on the	No Tag
+Billboard's	Interaction
+Hot	Irrelevant
+Christian	Irrelevant
+Songs	Interaction
+for over	Irrelevant
+two years,	Irrelevant
+Lauren Daigle's	Artist
+"You Say"	Song
+has	Irrelevant
+not only	Irrelevant
+touched	Irrelevant
+the	No Tag
+hearts	Irrelevant
+of	No Tag
+thousands	Irrelevant
+but has	Irrelevant
+provided	Irrelevant
+those	Irrelevant
+in need of	Irrelevant
+a	No Tag
+powerful	Irrelevant
+message	Irrelevant
+a	No Tag
+sense	Irrelevant
+of	No Tag
+identity	Irrelevant
+and	No Tag
+strength	Irrelevant
+to	No Tag
+move	Irrelevant
+forward.	Irrelevant
+In this	No Tag
+live performance	Irrelevant
+of	No Tag
+"Holy Water"	Song
+by	No Tag
+We The Kingdom,	Artist
+the audience	Irrelevant
+powerfully	Irrelevant
+sings	Irrelevant
+along with	No Tag
+the	No Tag
+rock-filled	Irrelevant
+energy	Irrelevant
+and	No Tag
+acoustic	Irrelevant
+simplicity	Irrelevant
+of this	No Tag
+powerful	Irrelevant
+gospel song.	Irrelevant
+It's	Irrelevant
+12 minutes	Irrelevant
+of	No Tag
+pure	Sentiment
+emotion!	Sentiment
+The	No Tag
+live recording	Interaction
+of	No Tag
+"The Blessing"	Song
+begins	Irrelevant
+with a	No Tag
+slow	Irrelevant
+intro	Irrelevant
+as	No Tag
+Cody Carnes	Artist
+leads	Irrelevant
+the	No Tag
+audience	Interaction
+in	No Tag
+prayer.	Irrelevant
+Keeping	Irrelevant
+the audience	Irrelevant
+engaged,	Irrelevant
+the song	Irrelevant
+steadily	Irrelevant
+climbs	Irrelevant
+both in	Irrelevant
+vocals	Irrelevant
+from	No Tag
+Kari Jobe	Artist
+and	No Tag
+instrumentals	Irrelevant
+from	No Tag
+Elevation Worship	Irrelevant
+bursting	Irrelevant
+into a	No Tag
+rich	Irrelevant
+and	No Tag
+powerful	Irrelevant
+performance	Irrelevant
+that will	Irrelevant
+certainly	Irrelevant
+have	No Tag
+you	No Tag
+either in	No Tag
+tears	Irrelevant
+or	No Tag
+wil {NoTag}l leave	Irrelevant
+your heart	Irrelevant
+fluttering	Irrelevant
+with a	No Tag
+sense	Irrelevant
+of	No Tag
+salvation.	Irrelevant
+Kanye West	Artist
+is	No Tag
+extra	Irrelevant
+in his	Irrelevant
+9th	Irrelevant
+studio album release	Irrelevant
+of	No Tag
+"Follow God."	Song
+"Rescue Story"	Song
+was the	No Tag
+album's	Irrelevant
+second	Irrelevant
+single release	No Tag
+quickly	Irrelevant
+rising	Irrelevant
+to the	Irrelevant
+top of	Irrelevant
+the	No Tag
+charts	Interaction
+and	No Tag
+certifying	Irrelevant
+the	No Tag
+album	Interaction
+as	No Tag
+Gold	Irrelevant
+with over	Irrelevant
+500,000	Irrelevant
+sales.	Interaction
+Reaching	Irrelevant
+number three	Irrelevant
+on the	No Tag
+US	Irrelevant
+Hot	Irrelevant
+Christians Songs	Irrelevant
+chart	Irrelevant
+after	No Tag
+its	No Tag
+January 24, 2020 release,	Irrelevant
+Cory Asbury's	Artist
+"The Father's House"	Song
+is the	No Tag
+lead single	Irrelevant
+on his	No Tag
+third studio album	Irrelevant
+"To Love a Fool."	Album
+Time stamps	Irrelevant
+disappeared	Irrelevant
+for me,	Irrelevant
+ignore	Irrelevant
+if	No Tag
+you	Irrelevant
+don't	Irrelevant
+need!	Irrelevant
+0:00	Format
+Oh yeah, You Gonna Cry?	Song
+2:51	Format
+Model Buses	Song
+5:44	Format
+Concrete	Song
+8:54	Format
+Perfume	Song
+12:26	Format
+Youll Understand when Youre Older	Song
+16:16	Format
+The Fall	Song
+19:25	Format
+Its all Futile! Its all Pointless!	Song
+Crystal Nub	Irrelevant
+10 months ago	Format
+Time Stamps:	Irrelevant
+0:00 -	Format
+Flo Rida,	Artist
+ft	No Tag
+Sia	Artist
+(Wild Ones)	Song
+3:50 -	Format
+Flo Rida	Artist
+(My House)	Song
+7:00 -	Format
+Coldplay	Artist
+(Sky full of Stars)	Song
+11:25 -	Format
+3OH!3,	Artist
+ft	No Tag
+Ke$ha	Artist
+(My First Kiss)	Song
+14:35 -	Format
+Gym Class Heroes,	Artist
+ft	No Tag
+Adam Levine	Artist
+(Stereo Hearts)	Song
+18:00 -	Format
+B.o.B.,	Artist
+ft	No Tag
+Hayley Williams	Artist
+(Airplanes)	Song
+21:00 -	Format
+Macklemore,	Artist
+ft	No Tag
+Ray Dalton	Artist
+(Can't Hold Us)	Song
+25:15 -	Format
+Charli XCX	Artist
+(Boom Clap)	Song
+28:00 -	Format
+Bruno Mars	Artist
+(That's What I Like)	Song
+31:25 -	Format
+Cardi B	Artist
+(I Like It)	Song
+35:30 -	Format
+Lizzo	Artist
+(Truth Hurts)	Song
+38:26 -	Format
+Wiz Khalifa,	Artist
+ft	No Tag
+Charlie Puth	Artist
+(See You Again)	Song
+42:10 -	Format
+Ed Sheeran	Artist
+(Perfect)	Song
+46:30 -	Format
+Bruno Mars	Artist
+(The Way You Are)	Song
+50:10 -	Format
+Melanie Martinez	Artist
+(Play Date)	Song
+53:05 -	Format
+Anne-Marie	Artist
+(2002)	Song
+56:10 -	Format
+Nico & Vinz	Artist
+(Am I Wrong?)	Song
+1:00:13 -	Format
+Charlie Puth,	Artist
+ft	No Tag
+Selena Gomez	Artist
+(We Don't Talk Anymore)	Song
+1:03:50 -	Format
+Bebe Rexha	Artist
+(I'm a Mess)	Song
+1:07:00 -	Format
+Ava Max	Artist
+(Sweet but Psycho)	Song
+1:10:05 -	Format
+Marshmello	Artist
+(FRIENDS)	Song
+1:13:25 -	Format
+G-Eazy	Artist
+(Good Life)	Song
+1:17:10 -	Format
+Fitz and The Tantrums	Artist
+(Hand Clap)	Song
+1:20:18 -	Format
+Rudimental,	Artist
+ft	No Tag
+James Arthurt	Artist
+(Sun Comes Up)	Song
+1:24:05 -	Format
+Charlie Puth	Artist
+(Attention)	Song
+1:27:32 -	Format
+Jason Derulo	Artist
+(Watcha Say)	Song
+1:31:15 -	Format
+La-Le-Lu	Artist
+(Written in the Stars; Karaoke Version)	Song
+1:34:50 -	Format
+Cody Simpson	Artist
+(La Da Dee)	Song
+1:38:10 -	Format
+Jason Mraz	Artist
+(I Won't Give Up)	Song
+1:42:05 -	Format
+Jaymes Young	Artist
+(Moondust)	Song
+Im	Irrelevant
+drunk	Irrelevant
+right now	Irrelevant
+and	No Tag
+just	Irrelevant
+dancing	Interaction
+to	No Tag
+this	No Tag
+at	No Tag
+5:30 am	Irrelevant
+in	No Tag
+my	Irrelevant
+room.	Irrelevant
+Wish	Irrelevant
+people	Irrelevant
+my	Irrelevant
+age	Irrelevant
+could	Irrelevant
+appreciate	Sentiment
+nostalgia	Sentiment
+like	Irrelevant
+I	Irrelevant
+This	Irrelevant
+playlist	Interaction
+is	Irrelevant
+so	No Tag
+sick,	Sentiment
+especially	Irrelevant
+because	Irrelevant
+im	Irrelevant
+drunk	Irrelevant
+but that	No Tag
+dont	Irrelevant
+matter	Irrelevant
+8 yr. ago	Format
+MILK IT BABY!	Irrelevant
+1 Reply	Format
+Share	Format
+Report	Format
+Save	Format
+Follow	Format
+level 1	Format
+8 yr. Ago	Format
+All	No Tag
+my	No Tag
+friends	Irrelevant
+will	No Tag
+forever	Irrelevant
+be	No Tag
+one of the	No Tag
+greatest	Irrelevant
+songs	Irrelevant
+ever	No Tag
+written.	Irrelevant
+1 Reply	Format
+Share	Format
+Report	Format
+Save	Format
+Follow	Format
+level 2	Format
+KristoffersonFox	Irrelevant
+· 8 yr. Ago	Format
+Nightswimming	Song
+was	No Tag
+my	No Tag
+favorite	Irrelevant
+song	Irrelevant
+as a	No Tag
+five-year-old!	Irrelevant
+1 Reply	Format
+Share	Format
+Report	Format
+Save	Format
+Follow	Format
+View Entire Discussion	Format
+(133 Comments)	Format
+More posts	Format
+from the	No Tag
+Music	Irrelevant
+community	Irrelevant
+Continue browsing	Format
+in	No Tag
+r/Music	Format
+About Community	Format
+r/Music	Format
+The	No Tag
+musical community	Irrelevant
+of	No Tag
+reddit	Irrelevant
+Created Jan 25, 2008	Format
+31.2m Members	Format
+3.7k Online	Format
+#4 Ranked	Format
+by	No Tag
+Size	Format
+Join	Format
+TOP POSTS	Format
+DECEMBER 19TH 2014	Format
+TOP POSTS OF DECEMBER, 2014	Format
+TOP POSTS 2014	Format
+Back to Top	Format
+1420897073	Format
+8 yr. ago	Format
+Spotify Dude,	Irrelevant
+Untitled 8	Song
+is a	No Tag
+magnificent	Irrelevant
+song.	Irrelevant
+Didn't	No Tag
+put	No Tag
+it	No Tag
+in	No Tag
+my	No Tag
+top 20,	Irrelevant
+but	No Tag
+definitely	Irrelevant
+makes	Irrelevant
+my	No Tag
+top 25.	Irrelevant
+9 Reply	Format
+Share	Format
+Report	Format
+Save	Format
+Follow	Format
+Continue this thread	Format

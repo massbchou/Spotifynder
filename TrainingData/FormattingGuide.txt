@@ -18,6 +18,7 @@ Entity tab Entity Length/n (newline) Do not include quotation marks
 The Tokens and their tags should go in the TokensTags.txt file with the following format:
 
 Token tab Tag/n (newline) Do not include quotation marks. Note that this means that the TokenTags file will be much longer than the Entities file. 
+There is assumed to be a space between EACH token
 
 The following are the possible tags to use for SONG training: 
 
@@ -26,4 +27,4 @@ Artist - Ex. "Rick Astley"
 Album - Ex. "Whenever You Need Somebody"
 Irrelevant - "banana" or "i liked the song" or "speaker" (anything that is not a song, artist, or album)
 Format - Ex. "Sign In" or "Forgot Password?" (Website artefacts)
-No Tag - Ex. "And" or "the" or "because" (words that exist to add structure to the sentence)
+NoTag - Ex. "And" or "the" or "because" (words that exist to add structure to the sentence)

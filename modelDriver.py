@@ -1,7 +1,4 @@
-import spacy
-import numpy as np
-from copy import deepcopy
-
+import spaCy
 
 #Expects 2 Strings, Each is a filename.
 def makeData(entitiesFile, tokenTagsFile): # Returns an array that spaCy can use to train. 
@@ -27,6 +24,7 @@ def makeData(entitiesFile, tokenTagsFile): # Returns an array that spaCy can use
 
     for i in range(len(temp)):
         temp2 = temp[i].split("\t")
+        #print(temp2)
         sentences.append(temp2[0])
         recordLens.append(temp2[1])
 
@@ -49,33 +47,47 @@ def makeData(entitiesFile, tokenTagsFile): # Returns an array that spaCy can use
 def trainModel(trainingData, outFile, params): #Trains the model and saves it to outFile.
     if (params == None):
         params = [10, 4, 0.3]
-    spacy.train(trainingData,params[0],params[1],params[2],outFile)
+    spaCy.train(trainingData,params[0],params[1],params[2],outFile)
     
 #Expects a Filename, a Filename, and a String
 def predictModel(modelFile, outFile, quizData): #Returns an array of the predicted labels. 
     input = ''
     if quizData is None:
         try:
-            f = open(".\inputString.txt", "r")
+            f = open("./inputString.txt", "r")
         except:
             return 0
         input = f.read()
         f.close()
-        input = input.split("\n")
+        #input = input.split("\n")
+        input = sentenceBreaker(input)
     else:
-        input = quizData.split("\n") #Splits the string based on newlines.
+        input = sentenceBreaker(quizData)
+        #input = quizData.split("\n") #Splits the string based on newlines.
+    #print(input)
     test = []
     for i in range(len(input)):
         test.append([i,input[i]])
-    prediction = spacy.predict(test, modelFile)
+    prediction = spaCy.predict(test, modelFile)
     f = open(outFile, "w")
     for i in range(len(prediction)):
         f.write(str(prediction[i]) + "\n")
     f.close()
     return prediction
 
-       
+def sentenceBreaker(text): #Returns an array of the sentences in the text.
+    sentences = []
+    temp = text.split(". ")
+    for i in range(len(temp)):
+        sentences.append(temp[i] + ".")
+    return sentences 
+
 
 
 # Comment this in when you want to make a new Model
-#trainModel(makeData("./textFiles/Entities.txt","./textFiles/TokenTags.txt"), "./models/SAA.spacy", [10, 4, 0.3])
+trainModel(makeData("./TrainingData/Ents/SAA_Aggregated.txt","./TrainingData/TokTag/SAA_Aggregated.txt"), "./models/SAA.spacy", [10, 4, 0.3])
+
+# Comment this in for a quick Test on a trained Model
+predictModel("./models/SAA.spacy", "./models/outputs/output.txt", None)
+
+#./TrainingData/Ents/SAA_Aggregated.txt | ./TrainingData/TokTag/SAA_Aggregated.txt

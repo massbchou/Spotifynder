@@ -19,10 +19,10 @@ def train(trainingData,iterations,batch_size,dr,filepath):
         else:
             TRAIN_DATA[len(TRAIN_DATA)-1][1]['entities'].append((currIndex,currIndex+len(token),tag))
         currIndex += len(token) + 1
-    f = open("./TrainingData Spacey Formatted Training.txt", "w")
-    for i in range(len(TRAIN_DATA)):
-        f.write(str(TRAIN_DATA[i]) + "\n")
-    f.close()
+    # f = open("./TrainingData/Spacey Formatted Training.txt", "w")
+    # for i in range(len(TRAIN_DATA)):
+    #     f.write(str(TRAIN_DATA[i]) + "\n")
+    # f.close()
     #return
     nlp = spacy.blank('en')
     nlp.add_pipe('ner')
