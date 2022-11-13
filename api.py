@@ -4,9 +4,10 @@ from flask import Flask, request, jsonify
 import random
 import modelDriver
 
-app = Flask(__name__) #request.json[list(request.json.keys())[0]] Code to get the data by index
-@app.route('/', methods=['GET','POST'])
+app = Flask(__name__)  #request.json[list(request.json.keys())[0]] Code to get the data by index
+@app.route('/', methods=['GET', 'POST'])
 def index():
+
     reqType = ''
     try:
         reqType = request.json['Request Type']
@@ -26,11 +27,26 @@ def index():
                 return jsonify("Invalid input format. Make sure there is a 'Data' field that is a string")
 
             if (mod == 1):
-                return jsonify(modelDriver.predictModel("./models/SAA.spacy", "./models/outputs/output.txt", data)) #Returns an array of the predicted labels.
+                songs = []
+                artists = []
+                albums = []
+                predictions = modelDriver.predictModel("Spotifynder/models/SAA.spacy", "Spotifynder/models/outputs/output.txt", data)
+                for i in range(len(predictions)):
+                    if predictions[i][1] == 'Song':
+                        songs.append(predictions[i][2])
+                    elif predictions[i][1] == 'Artist':
+                        artists.append(predictions[i][2])
+                    elif predictions[i][1] == 'Album':
+                        albums.append(predictions[i][2])
+                toRet = {
+                    "Songs": songs,
+                    "Artists": artists,
+                    "Albums": albums
+                }
+                return jsonify(toRet)
             else:
                 return jsonify("Invalid Model")
     except Exception as e:
         return jsonify("Something went wrong somewhere. Exception: " + str(e))
 
     #./Models/spaCy_model_intents.spacy
-

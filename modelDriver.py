@@ -1,7 +1,7 @@
 import spaCy
 
 #Expects 2 Strings, Each is a filename.
-def makeData(entitiesFile, tokenTagsFile): # Returns an array that spaCy can use to train. 
+def makeData(entitiesFile, tokenTagsFile): # Returns an array that spaCy can use to train.
     toRet = []
     try:
         f = open(entitiesFile, "r")
@@ -13,7 +13,7 @@ def makeData(entitiesFile, tokenTagsFile): # Returns an array that spaCy can use
 
     sentences = []
 
-    try: 
+    try:
         f = open(tokenTagsFile, "r")
     except:
         return 0
@@ -48,9 +48,9 @@ def trainModel(trainingData, outFile, params): #Trains the model and saves it to
     if (params == None):
         params = [10, 4, 0.3]
     spaCy.train(trainingData,params[0],params[1],params[2],outFile)
-    
+
 #Expects a Filename, a Filename, and a String
-def predictModel(modelFile, outFile, quizData): #Returns an array of the predicted labels. 
+def predictModel(modelFile, outFile, quizData): #Returns an array of the predicted labels.
     input = ''
     if quizData is None:
         try:
@@ -80,14 +80,14 @@ def sentenceBreaker(text): #Returns an array of the sentences in the text.
     temp = text.split(". ")
     for i in range(len(temp)):
         sentences.append(temp[i] + ".")
-    return sentences 
+    return sentences
 
 
 
 # Comment this in when you want to make a new Model
-trainModel(makeData("./TrainingData/Ents/SAA_Aggregated.txt","./TrainingData/TokTag/SAA_Aggregated.txt"), "./models/SAA.spacy", [10, 4, 0.3])
+# trainModel(makeData("./TrainingData/Ents/SAA_Aggregated.txt","./TrainingData/TokTag/SAA_Aggregated.txt"), "./models/SAA.spacy", [10, 4, 0.3])
 
 # Comment this in for a quick Test on a trained Model
-predictModel("./models/SAA.spacy", "./models/outputs/output.txt", None)
+# predictModel("./models/SAA.spacy", "./models/outputs/output.txt", None)
 
 #./TrainingData/Ents/SAA_Aggregated.txt | ./TrainingData/TokTag/SAA_Aggregated.txt
